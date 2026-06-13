@@ -4,17 +4,17 @@
 
 ### 134+ Free Browser-Based Online Tools
 
-[
+
 
 ![Website](https://img.shields.io/badge/Website-allinonetools.top-green?style=for-the-badge)
 
-](https://allinonetools.top)
-[
+(https://allinonetools.top)
+
 
 ![Tools](https://img.shields.io/badge/Tools-134+-blue?style=for-the-badge)
 
-](https://allinonetools.top)
-[
+(https://allinonetools.top)
+
 
 ![License](https://img.shields.io/badge/License-Free-orange?style=for-the-badge)
 
