@@ -18,7 +18,7 @@
 
 ![License](https://img.shields.io/badge/License-Free-orange?style=for-the-badge)
 
-](https://allinonetools.top)
+(https://allinonetools.top)
 
 **No signup. No download. No file upload. Works in any browser.**
 
